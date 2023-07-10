@@ -1,4 +1,4 @@
-# Node_library
+# Node-library
 
 The project hosted at [https://bogdanblarelibrarystorage.onrender.com/catalog](https://bogdanblarelibrarystorage.onrender.com/catalog) is a library management application created using Express.js. It allows users to perform basic CRUD (Create, Read, Update, Delete) operations on a collection of books.
 
