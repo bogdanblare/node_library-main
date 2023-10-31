@@ -1,4 +1,4 @@
-# Node-library
+# 📱 Node-library
 
 The project is a library management application created using Express.js. It allows users to perform basic CRUD (Create, Read, Update, Delete) operations on a collection of books.
 
@@ -18,10 +18,10 @@ It's worth noting that this project is based on the MDN tutorial, which provides
 
 For more detailed information on how the application functions or specific implementation details, you may refer to the MDN tutorial or the project's documentation and source code.
 
-## Built with
+# 🔧 Built with
 - Node and Express
 - MongoDB
 
-## Screenshots
+# 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/node-library/main/Screenshot.png)
